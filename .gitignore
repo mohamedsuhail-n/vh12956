@@ -1,16 +1,11 @@
-# Dependency directories
 node_modules/
 **/node_modules/
-
-# OS files
 .DS_Store
 Thumbs.db
-
-# Environment variables
 .env
 .env.local
-
-# Build folders
 dist/
 build/
 .vite/
+__pycache__/
+*.pyc
